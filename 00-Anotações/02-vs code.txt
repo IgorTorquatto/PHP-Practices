@@ -1,0 +1,13 @@
+PHP no Vs Code:
+
+-PHP intelephense (extensão)
+
+Para conseguir executar o php no vs code precisamos configurar em settings:
+
+php.validate.executablePath -> edit settings.json
+
+Em "php.validate.executablePath": ""
+preencher com o caminho do php instalado no computador ( pasta do laragon )
+Obs: Verificar se as barras estão no formato correto
+ex:C:/laragon/bin/php/php-8.1.10-Win32-vs16-x64/php.exe
+

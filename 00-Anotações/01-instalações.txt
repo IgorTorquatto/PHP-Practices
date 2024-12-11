@@ -1,0 +1,24 @@
+Xampp:
+Solução para criar um *ambiente de desenvolvimento local* para php
+ele inclui componenetes como o apache( server web ),php,mysql( gerenciador DB )
+
+Precisamos instalar o xampp baixando do site da apache para o SO da máquina
+Com isso, instalará várias tecnologias que funcionarão juntamente, mas queremos nesse primeiro momento ter acesso ao painel de controle do xampp executando como adm
+
+Os nosso projetos ficarão em c/xampp/htdocs
+
+Podemos executar o servidor apache e verificar o localhost para testar 
+
+WampServer:
+
+É outro ambiente de desenvolvimento semelhante ao Xampp que traz as tecnologias necessárias para o desenvolvimento
+W windows, A apache , M mysql , P php
+
+Mamp:
+Outro ambiente de desenvolvimento
+
+Laragon:
+Ambiente de Desenvolvimento usado no curso
+Baixamos a versão thread safe do site window php downloads
+Adicionamos o PHP8 ao laragon e verificamos se tudo foi instalado corretamente
+
