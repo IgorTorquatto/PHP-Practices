@@ -1,0 +1,12 @@
+Quando fazemos a requisição de páginas php para um servidor , as informações de variáveis e outros dados são perdidas por padrão
+Dessa forma é como se tivéssemos que recarregar do zero as páginas e recriar os dados/informações a serem utilizadas
+
+Mas, existem mecanismos de PERSISTÊNCIA DE DADOS são eles: cookies, conexão com banco de Dados, guardar variáveis em métodos post/get 
+Aprenderemos mecanismos de armazenar informações do usuário enquanto ele navega
+
+
+OBS: Todos os dados que salvamos de um usuário em uma SESSÃO serão reiniciados toda vez que fechamos o browser e reabrimos
+Uma forma de salvar os dados de uma sessão do usuário é utilizando cookies.
+
+Cookies -> pequenos arquivos de texto que armezena informações do usuário ( identificação, preferências) para melhorar a experiência dele enquanto navega entre páginas
+
