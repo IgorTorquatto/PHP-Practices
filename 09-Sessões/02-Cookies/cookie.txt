@@ -1,0 +1,1 @@
+Vamos criar um exemplo simples de cookie que define a cor do tema da página
