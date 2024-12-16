@@ -1,0 +1,12 @@
+Temos algumas observações interessantes nesse pequeno exemplo:
+
+Por meio das superglobais do php podemos ter acesso a alguns campos importantes do formulário,
+como por exemplo o tipo de método que ele utiliza ( 'post','get')
+
+com isso , se o usuário tentar acessar a url do script.php já executado sem antes passar por um envio de formulário com método post
+apresentamos a mensagem de acesso inválido
+
+Com a superglobal do método post podemos ter acesso aos valores dos campos dos formulários e colocar esses valores em variáveis
+Lembrando que $_POST é um array com valores iguais aos 'names' dos campos do formulário
+
+Com isso podemos construir nossa lógica de comparaão para saber se o usuário pode ou não acessar a página

@@ -1,0 +1,5 @@
+Query strings são uma sequência de parâmetros que fica após o sinal de "?" na url que podemos capturar e utilizar no nosso script
+
+Podemos ter acesso aos query params no navegador em :
+
+Network -> payload
