@@ -1,0 +1,2 @@
+Namespaces são espaços de criação de classes onde podemos difinir todas as classes em um só arquivo.
+Namespaces podem ser utilizados para que possamos criar espaços diferentes que possuam classes com mesmo nome.

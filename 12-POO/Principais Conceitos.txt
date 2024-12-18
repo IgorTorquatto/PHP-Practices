@@ -1,0 +1,7 @@
+Abstração -> Com a utilização de objetos podemos utiliza-los sem necessariamente ser preciso saber como ele foi estruturado. Ou seja, podemos usar seus métodos sem conhecer o código.
+
+Encapsulamento-> Podemos proteger nossos atributos pois existem formas de controlar a acessibilidade a esses dados.
+
+Hereditariedade-> Podemos fazer com que classes herdem a estrutura de outras classes.
+
+Polimorfismo-> Por meio de interfaces conseguimos criar classes diferentes com métodos de mesmo nome mas com funcionalidades diferentes.
