@@ -1,0 +1,7 @@
+PHPmyAdmin é um software escrito em php que permite a gestão de banco de dados para php
+
+Podemos baixar o arquivo zip do PHPmyAdmin e copiar seu conteúdo para laragon->etc->apps e fazer algumas configurações
+(consultar vídeo)
+
+O PHPmyAdmin tem muitas funcionalidades que podemos executar apenas interagindo com a interface gráfica 
+isso facilita o trabalho. Em qualque caso temos também a aba SQL o qual podemos executar comandos SQL em algum caso que necessite.
