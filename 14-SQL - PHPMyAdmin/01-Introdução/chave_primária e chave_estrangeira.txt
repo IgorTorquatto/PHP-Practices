@@ -1,0 +1,10 @@
+chave primária diz respeito ao identificador único de cada dado em uma tabela 
+ex: id
+
+chave estrangeira diz respeito a uma chave que vem de outra tabela que não é aquela o qual estamos 
+implementando a chave estrangeira. Deste modo, permite relacionar diferentes tabelas
+ex:
+tabela amigos tem um coluna id
+tabela telefones tem uma coluna id_amigos que é chave estrangeira relacionado ao campo id da tabela amigos
+
+Obs: cada tabela pode ter apenas uma chave primária , mas pode ter mais de uma chave estrangeira.

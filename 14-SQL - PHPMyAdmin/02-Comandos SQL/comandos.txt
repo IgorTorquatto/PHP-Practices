@@ -1,0 +1,34 @@
+0-Criar tabela
+
+CREATE TABLE amigos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(50),
+    idade INT,
+    cidade VARCHAR(50)
+);
+
+1- Selecionar todo conteúdo de uma tabela
+
+SELECT * FROM table_name
+
+2- Inserir valores em uma tabela (deve obedecer a estrutura/modelo abordandos todos os campos)
+
+INSERT INTO table_name VALUES(0,"nome","date","date",NULL)
+
+obs: o "date" que deve obedecer a formatação correta de DATETIME SQL pode ser substituido
+pela função NOW(), como o campo id é auto_increment podemos preecnher com 0 ou NULL que o SQL colocará
+o valor correto, mas não pode ficar vazio.
+
+3- Deletar um registro
+
+DELETE FROM table_name WHERE id = num
+
+obs: id nesse caso é uma coluna
+
+4- Deletar uma tabela
+
+DROP TABLE table_name
+
+5- Deletar um Banco de Dados
+
+DROP DATABASE nome_do_banco_de_dados;

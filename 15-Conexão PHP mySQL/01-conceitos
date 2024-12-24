@@ -1,0 +1,4 @@
+O PHP tem duas formas de se conectar com o MySQL
+
+-MySQLi -> extensão
+-PDO -> PHP Data objects

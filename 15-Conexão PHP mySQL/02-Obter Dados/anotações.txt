@@ -1,0 +1,16 @@
+Com o objeto PDO da ligação com o banco de dados podemos executar querys escrevendo comandos SQL.
+
+Ao usar o método fetchAll temos todas as informações:
+-devolve o nome da coluna e seu valor em um array associativo
+
+Existem alguns tipos de fetch para consultar os dados de um banco de dados>
+
+-Padrão ( FETCH_BOTH ) -> devolve chaves númericas e nomes_das_colunas juntas
+-FETCH_NUM -> devolve um array com chaves numéricas onde essas chaves são sequenciais à ordem dos nomes das colunas da tabela
+-FETCH_ASSOC -> devolve o array associativo onde as chaves são os nomes das colunas da tabela
+-FETCH_OBJ -> devolve os valores organizados em objeto em que cada elemento contém as propriedades com os nomes das colunas.
+
+Ou seja temos um array onde cada índice desse array é outro array
+Dentro de cada array interno ( que é associativo ) temos as chaves e valores referentes a cada linha da tabela do banco de dados
+Dependendo do fetch essa chave pode ser numérica ou com nome da coluna associando ao dado correspondente na posição do valor
+Assim conseguimos exibir todos os dados de uma tabela de um banco de dados por meio de arrays.

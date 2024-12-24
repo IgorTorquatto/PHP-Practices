@@ -1,0 +1,11 @@
+Vamos importar a base de dados já pronta para o nosso dispositivo local
+
+No curso foi ensinado usando HeidiSQL, mas usaremos o PHPmyAdmin:
+
+1- Importamos o arquivo sql, consequentemente a base de dados.
+2- Criamos um novo usuário para administrar essa base de dados com username e password , além das permissões do username
+3- Criamos o script php que faz a ligação e executamos na web com o serviço php e servidor sql ativos
+
+Após feita a ligação podemos:
+1-Comunicar com a base de dados por meio de querys
+2-Fechar a ligação para liberar recursos
