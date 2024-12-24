@@ -1,7 +1,0 @@
-Para usarmos o workbench podemos criar shcemas de base de dados e , dentro do shcema criar tabelas 
-
-Para criar tabelas definimos seu nome e duas colunas.
-
-Ao aplicar vemos o código SQL que será executado para realizar uma ação no BD.
-
-OBS: Criamos tabelas (entidades) que possuem colunas(campos) com os dados em cada linha.

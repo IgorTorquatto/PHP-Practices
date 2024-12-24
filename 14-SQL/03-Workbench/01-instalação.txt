@@ -1,3 +1,0 @@
-Baixamos e instalamos o mySQL workbench , mas precisamos ter nosso servidor sql ( no laragon por exemplo ) executando
-
-Com isso podemos criar conexões com o mySQL e criar banco de dados e tabelas utilizando a interface gráfica do Workbench

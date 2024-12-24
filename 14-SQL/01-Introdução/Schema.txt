@@ -1,7 +1,0 @@
-Serve para definir toda a estrutura de um banco de dados como  suas tabelas e suas relações
-
-Cada coluna em uma tabela deve ter um data type que é o tipo de dado que vai definir os dados que estarão naquela coluna
-
-Quando utilizamos banco de dados precisamos que o servidor esteja em execução, para isso utlizaremos o laragon
-Cada base de dados criada estará associada a um user e uma password para que possa fazer a gestão
-Como estamos aprendendo o servidor local será executado na própria máquina com IP 127.0.0.1
