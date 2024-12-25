@@ -1,0 +1,8 @@
+1-Criei o html com bootstrap para deixar o design responsivo
+2-Criar um banco de dados (meus_clientes) com phpmyadmin 
+3-Criar um usuário(usuario_meus_clientes/iLP*zZ17ZT/_.Bc7) para gerir esse banco de dados
+4-Adicionar o método "post" ao formulário e adicionar a action para chamar o arquivo php
+5-Criar uma tabela "usuarios" com as colunas "email","password","created_at" no banco de dados
+6-Criar arquivo php para salvar dados no banco de dados
+7-Criei um script para fazer a validação do formulário no front-end
+8-Criei uma página para exibir os dados do usuário requisitando dados do banco
