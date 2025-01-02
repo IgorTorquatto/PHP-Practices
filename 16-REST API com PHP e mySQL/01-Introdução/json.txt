@@ -1,0 +1,3 @@
+Formato de dados fácil de ler para humanos e independente de qualquer linguagem
+
+Em php podemos transformar um array comum ou um array associativo em um json utilizando o método json_encode() nativo do php

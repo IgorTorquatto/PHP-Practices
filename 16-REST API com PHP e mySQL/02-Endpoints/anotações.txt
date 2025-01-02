@@ -1,0 +1,4 @@
+Endpoints são endereços (URL) onde as requisições são enviadas para acessar dados ou funcionalidades oferecidas pela API. Então,
+fazemos requisições get,post,put,delete para uma url essa url é um endpoint
+
+Em API - Exemplo temos um exemplo de api simples ainda sem verificação de usuário e que responde um json.

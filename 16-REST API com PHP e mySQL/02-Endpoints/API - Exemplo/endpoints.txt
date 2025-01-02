@@ -1,0 +1,4 @@
+http://localhost/project_30/api/get_all_animals/
+http://localhost/project_30/api/get_status/
+http://localhost/project_30/api/get_animals/?max={num}  ex: num=2 , num=5
+http://localhost/project_30/api/get_status/

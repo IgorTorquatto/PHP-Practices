@@ -1,0 +1,1 @@
+http://localhost/project_30/api/GET/?valor1={num1}&valor2={num2}  ex: num1 = 5 , num2 = 2

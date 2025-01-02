@@ -1,0 +1,18 @@
+Representational State Transfer
+
+Define um conjunto de funções GET,POST,PUT, etc que podemos usar para ter acesso
+e manipular dados num servidor web já que cliente e servidor trocam dados usando o protocolo HTTP
+
+Os pedidos efetuados ao servidor são semelhantes a uma URL, e a resposta é tradicionalmente um JSON
+
+Qualquer linguagem de programação moderna consegue interpretar JSON
+
+
+
+* REST -> arquitetura baseada no protocolo HTTP
+* RESTFul -> consjunto de regras que devem ser seguidas para criar api RESTFul
+
+Uma API deve estar bem documentada para quem for consumir entendê-la
+Deve ser implementado um sistema de autenticação/autorização
+Deve ser implementado uma boa estrutura de controle de erros
+Deve devolver apenas a informação necessária
